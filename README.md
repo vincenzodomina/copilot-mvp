@@ -11,7 +11,7 @@ Organisation der Gesundheitsdaten interaktiv begleitet.<br/>
 
 Die App-Screens:
 
-(/src/assets/images/App_Screen/Anruf.png)
+![Screen: Call](src/assets/images/App_Screen/Anruf.png)
 
 
 
