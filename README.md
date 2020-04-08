@@ -11,7 +11,12 @@ Organisation der Gesundheitsdaten interaktiv begleitet.<br/>
 
 Die App-Screens:
 
+![Screen: Call](src/assets/images/getstarted.png)
+![Screen: Call](src/assets/images/App_Screen/Dashboard_Patient.png)
 ![Screen: Call](src/assets/images/App_Screen/Anruf.png)
+![Screen: Call](src/assets/images/App_Screen/Fragebogen.png)
+![Screen: Call](src/assets/images/App_Screen/Infos.png)
+![Screen: Call](src/assets/images/App_Screen/Tagebuch.png)
 
 
 
