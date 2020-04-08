@@ -11,12 +11,7 @@ Organisation der Gesundheitsdaten interaktiv begleitet.<br/>
 
 Die App-Screens:
 
-<img src="src/assets/images/getstarted.png" height="400">
-<img src="src/assets/images/App_Screen/Dashboard_Patient.png" height="400">
-<img src="src/assets/images/App_Screen/Anruf.png" height="400">
-<img src="src/assets/images/App_Screen/Fragebogen.png" height="400">
-<img src="src/assets/images/App_Screen/Infos.png" height="400">
-<img src="src/assets/images/App_Screen/Tagebuch.png" height="400">
+<img src="src/assets/images/getstarted.png" height="400"><img src="src/assets/images/App_Screen/Dashboard_Patient.png" height="400"><img src="src/assets/images/App_Screen/Anruf.png" height="400"><img src="src/assets/images/App_Screen/Fragebogen.png" height="400"><img src="src/assets/images/App_Screen/Infos.png" height="400"><img src="src/assets/images/App_Screen/Tagebuch.png" height="400">
 
 
 
