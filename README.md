@@ -9,9 +9,15 @@ Der besorgte oder erkrankte Patient wird durch die App im gesamten
 Prozess durch eine umfassende Toolbox (App) zur Information und
 Organisation der Gesundheitsdaten interaktiv begleitet.<br/>
 
+Die App-Screens:
+
+(/src/assets/images/App_Screen/Anruf.png)
+
+
+
 Das Projekt CoPilot ist im Hackathon der Bundesregierung #wirvsvirus entstanden und wurde im Wettbewerb sprint4local weiterentwickelt.<br/>
 
-[link](https://devpost.com/software/copilot-dein-begleiter-fur-deine-gesundheit)
+Mehr Infos auf unserer [DevPost-Seite](https://devpost.com/software/copilot-dein-begleiter-fur-deine-gesundheit)
 
 
 This project was bootstrapped with EXPO
